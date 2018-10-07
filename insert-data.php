@@ -3,7 +3,7 @@
 
 $servername = "localhost";
 $username = "site_admin";
-$password = "site1427";
+$password = "site_admin";
 $dbname = "testdb";
 
 // data variables
