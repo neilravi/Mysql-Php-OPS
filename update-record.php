@@ -3,7 +3,7 @@ error_reporting(E_ALL);
 ini_set('display_errors', 1);
 $servername = "localhost";
 $username = "site_admin";
-$password = "site1427";
+$password = "site_admin";
 $dbname = "testdb";
 $record=$_GET['edit_record'];
 
